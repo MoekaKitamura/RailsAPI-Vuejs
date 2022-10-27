@@ -1,0 +1,3 @@
+[submodule "cdp_web_vue_2"]
+	path = cdp_web_vue_2
+	url = git@github.com:diveintocode-corp/cdp_web_vue.git
